@@ -58,7 +58,7 @@ npm install -g gcal
 
 Authorization and authentication is done with OAuth 2.0. 
 
-Ok, this will take only 2 minutes:
+Ok, this will take only 20 minutes:
 
 #### 1) Get your project credentials
 
